@@ -1,0 +1,26 @@
+/* selector {
+    propierty: value;
+} 
+
+Types of selectors:
+
+Element h1, p, input
+Class .class
+ID #id
+
+*/
+
+header {
+    color: blue;
+}
+
+
+.txt {
+    font-size: 18px;
+    color: grey;
+}
+
+#paragraph1 {
+    font: 25px sans-serif;
+    
+}
